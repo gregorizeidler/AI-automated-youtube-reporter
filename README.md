@@ -1,6 +1,6 @@
 # 🎥 Automated YouTube Reporter
 
-<div align="center">
+<div align="center"> 
 
 **Transform Breaking News into Professional YouTube Videos Automatically**
 
